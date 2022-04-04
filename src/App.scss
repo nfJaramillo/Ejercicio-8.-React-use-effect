@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+}
+
+.gallery-card{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card{
+  width: 20vw;
+  margin: 1vw;
+}
